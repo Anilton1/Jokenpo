@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jokenpo</string>
+
+    <string name="action_settings">Opções</string>
+
+    <string name="opcoes">Escolha uma opção</string>
+
+    <string name="ultimaBatalha">Última Batalha</string>
+
+    <string name="vc">Você</string>
+
+    <string name="resultado">Resultado</string>
+
+    <string name="inimigo">Inimigo</string>
+    
+</resources>
